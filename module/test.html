@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>RunJS</title>
+    <style>
+        button {
+            border   : 1px solid #ccc;
+            cursor   : pointer;
+            display  : block;
+            margin   : auto;
+            position : relative;
+            top      : 100px;
+        }
+    </style>
+
+    <script type="text/javascript" src="./1_isParameterType.js"></script>
+    <script type="text/javascript" src="./1_z_9_navigator.js"></script>
+    <script type="text/javascript" src="./2_tool.js"></script>
+    <script type="text/javascript" src="./3_arguments.js"></script>
+    <script type="text/javascript" src="./3_z_8_object.js"></script>
+    <script type="text/javascript" src="./3_z_9_array.js"></script>
+    <script type="text/javascript" src="./4_1_url.js"></script>
+    <script type="text/javascript" src="./4_2_cookie.js"></script>
+    <script type="text/javascript" src="./4_events.js"></script>
+    <script type="text/javascript" src="./5_algorithm.js"></script>
+</head>
+<body>
+<button onclick="javascript:say_hello();">Hello RunJS!</button>
+<script>
+    function say_hello() {
+        console.log(_k.doCallbackByTasksDone([
+            function (callback) {
+                var done  = 2;
+                callback(done);
+            },
+            function (callback) {
+                var done  = 3;
+                callback(done);
+            }], function (result, err) {
+            if (err) {
+                console.log('result is: ');
+            }
+            console.log('result is: ');
+            console.log(result)
+        }));
+    }
+
+</script>
+</body>
+</html>
