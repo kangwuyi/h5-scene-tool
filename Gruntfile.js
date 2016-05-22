@@ -6,8 +6,8 @@ module.exports = function(grunt) {
       pkg: grunt.file.readJSON('package.json'),
       concat: {
         base: {
-          src: ['module/base/*.js'],
-          dest: 'dest/base.js',
+          src: ['test/js/base/*.js'],
+          dest: 'dist/base.js',
         }
       },
       uglify: {
@@ -21,15 +21,15 @@ module.exports = function(grunt) {
                    footer:'\n/*! <%= pkg.name %> 最后修改于： <%= grunt.template.today("yyyy-mm-dd") %> */'//添加footer
                },
                files: {
-                   'dest/base.min.js': ['dest/base.js']
+                   'dist/base.min.js': ['dist/base.js']
                }
            },
            buildall: {//任务三：按原文件结构压缩js文件夹内所有JS文件
                files: [{
                    expand:true,
-                   cwd:'module',//js目录下
+                   cwd:'test/js/',//js目录下
                    src:'**/*.js',//所有js文件
-                   dest: 'test/js'//输出到此目录下
+                   dest: 'test/minjs'//输出到此目录下
                }]
            }//,
            //release: {//任务四：合并压缩a.js和b.js
@@ -44,7 +44,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-uglify');
 
   // 默认任务
-  grunt.registerTask('default', ['uglify:release']);
+  grunt.registerTask('defaultrelease', ['uglify:release']);
   grunt.registerTask('mina', ['uglify:build_1']);
   grunt.registerTask('minall', ['uglify:buildall']);
   grunt.registerTask('default', ['concat']);

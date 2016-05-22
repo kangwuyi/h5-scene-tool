@@ -1,3 +1,5 @@
+var ObjectPrototype = Object.prototype,
+toString = ObjectPrototype.toString;
 var _k = {
     /**
      * 判断是否是 Arguments

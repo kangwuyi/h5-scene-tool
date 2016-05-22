@@ -1,0 +1,2 @@
+/*! kahn1990_new_book 2016-05-22 */
+_k.cookiesMap={},_k.forEach(document.cookie.split(";"),function(a){var b=a.split("=");_k.cookiesMap[b[0].trim()]=b[1]}),_k.getCookie=function(a){return _k.cookiesMap[a]};
