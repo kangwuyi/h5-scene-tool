@@ -1,0 +1,33 @@
+.contentBox{
+	overflow: hidden; z-index: 1; width: 320px; height: 504px; position: absolute; left: 0px; top: 0px; pointer-events: auto; background: rgb(0, 0, 0);
+}
+.box_1{
+	position: absolute; z-index: 1000; width: 27px; height: 27px; border: 1px solid white; color: white; border-radius: 14px; line-height: 26px; font-size: 9px; text-align: center; right: 10px; bottom: 15px; transition: 0.25s ease-in-out; transform: translate3d(0px, 0px, 0px); pointer-events: auto; background: rgba(0, 0, 0, 0.498039);
+}
+.box_1_1{
+	position: absolute; top: -10px; bottom: -10px; left: -10px; right: -10px;
+}
+.box_1_1_img_1{
+	width: 10px; height: 10px; visibility: visible; position: absolute; left: 50%; margin-left: -5px; top: 50%; margin-top: -5px;
+}
+.box_1_img_1{
+	width: 17px; height: 17px; visibility: visible; position: absolute; bottom: 45px; left: 50%; margin-left: -8px; z-index: 10; pointer-events: none; animation: keyframe4 1.5s infinite both;
+}
+.box_1_layout{
+	position: absolute; width: 320px; height: 504px; z-index: 0; backface-visibility: hidden; overflow: hidden; left: 0px; top: 0px; background: white;
+}
+.box_1_layout_1{
+	overflow: hidden; position: absolute; display: block; left: 0px; top: 0px; width: 320px; height: 504px; z-index: 0;
+}
+.box_1_layout_1_1_img{
+	height: 504px; width: 320px; margin-left: 0px; margin-top: 0px;
+}
+.box_1_layout_1_img_1{
+	position: absolute; display: block; left: 258px; top: 98px; width: 42px; height: 80px; z-index: 0; opacity: 1;
+}
+.box_1_layout_1_img_2{
+	position: absolute; display: block; left: 278px; top: 183px; width: 22px; height: 149px; z-index: 0; opacity: 1;
+}
+.displayNone{
+	display:none !important;
+}

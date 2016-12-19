@@ -1,0 +1,92 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/js/cursor.min.js" />
+        <item url="file://$PROJECT_DIR$/js/animation.min.js" />
+        <item url="file://$PROJECT_DIR$/js/url.min.js" />
+        <item url="file://$PROJECT_DIR$/js/element.min.js" />
+        <item url="file://$PROJECT_DIR$/js/css.min.js" />
+        <item url="file://$PROJECT_DIR$/js/string.min.js" />
+        <item url="file://$PROJECT_DIR$/js/canvas.min.js" />
+        <item url="file://$PROJECT_DIR$/js/prompt.min.js" />
+        <item url="file://$PROJECT_DIR$/js/underscore.html5.min.js" />
+        <item url="file://$PROJECT_DIR$/js/userAgent.min.js" />
+        <item url="file://$PROJECT_DIR$/js/ua.min.js" />
+        <item url="file://$PROJECT_DIR$/js/1.min.js" />
+        <item url="file://$PROJECT_DIR$/js/阿.min.js" />
+        <item url="file://$PROJECT_DIR$/js/event.min.js" />
+        <item url="file://$PROJECT_DIR$/js/7.min.js" />
+        <item url="file://$PROJECT_DIR$/js/img.min.js" />
+        <item url="file://$PROJECT_DIR$/js/8.min.js" />
+        <item url="file://$PROJECT_DIR$/js/word.min.js" />
+        <item url="file://$PROJECT_DIR$/js/firstpage.no.min.js" />
+        <item url="file://$PROJECT_DIR$/lib/require.min.js" />
+        <item url="file://$PROJECT_DIR$/lib/underscore.min.js" />
+        <item url="file://$PROJECT_DIR$/lib/underscore-contrib.min.js" />
+        <item url="file://$PROJECT_DIR$/lib/underscore.string.min.js" />
+        <item url="file://$PROJECT_DIR$/js/firstpage.min.js" />
+        <item url="file://$PROJECT_DIR$/js/test.min.js" />
+        <item url="file://$PROJECT_DIR$/js/moudle/utils.min.js" />
+        <item url="file://$PROJECT_DIR$/js/text.min.js" />
+        <item url="file://$PROJECT_DIR$/js/moudle/kcool.min.js" />
+        <item url="file://$PROJECT_DIR$/js/layout.min.js" />
+        <item url="file://$PROJECT_DIR$/js/moudle/isParameterType.min.js" />
+        <item url="file://$PROJECT_DIR$/js/are3d.min.js" />
+        <item url="file://$PROJECT_DIR$/js/are2D.min.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/yuicompressor/nodejs/index.min.js" />
+        <item url="file://$PROJECT_DIR$/js/2d.min.js" />
+        <item url="file://$PROJECT_DIR$/js/iconMap.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/js/ajaxAddOne2.min.js" />
+      <root url="file://$PROJECT_DIR$/js/ajaxAddOne.min.js" />
+      <root url="file://$PROJECT_DIR$/js/firstpage.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/ajaxAddOne.min.js" />
+      <root url="file://$PROJECT_DIR$/js/firstpage.min.min.js" />
+      <root url="file://$PROJECT_DIR$/lib/underscore-min.min.js" />
+      <root url="file://$PROJECT_DIR$/lib/underscore-contrib.min.min.js" />
+      <root url="file://$PROJECT_DIR$/lib/underscore.string.min.min.js" />
+      <root url="file://$PROJECT_DIR$/lib/underscore-min.min.js" />
+      <root url="file://$PROJECT_DIR$/lib/underscore-contrib.min.min.js" />
+      <root url="file://$PROJECT_DIR$/lib/underscore.string.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/cursor.min.js" />
+      <root url="file://$PROJECT_DIR$/js/animation.min.js" />
+      <root url="file://$PROJECT_DIR$/js/url.min.js" />
+      <root url="file://$PROJECT_DIR$/js/element.min.js" />
+      <root url="file://$PROJECT_DIR$/js/css.min.js" />
+      <root url="file://$PROJECT_DIR$/js/string.min.js" />
+      <root url="file://$PROJECT_DIR$/js/canvas.min.js" />
+      <root url="file://$PROJECT_DIR$/js/prompt.min.js" />
+      <root url="file://$PROJECT_DIR$/js/underscore.html5.min.js" />
+      <root url="file://$PROJECT_DIR$/js/userAgent.min.js" />
+      <root url="file://$PROJECT_DIR$/js/ua.min.js" />
+      <root url="file://$PROJECT_DIR$/js/1.min.js" />
+      <root url="file://$PROJECT_DIR$/js/阿.min.js" />
+      <root url="file://$PROJECT_DIR$/js/event.min.js" />
+      <root url="file://$PROJECT_DIR$/js/7.min.js" />
+      <root url="file://$PROJECT_DIR$/js/img.min.js" />
+      <root url="file://$PROJECT_DIR$/js/8.min.js" />
+      <root url="file://$PROJECT_DIR$/js/word.min.js" />
+      <root url="file://$PROJECT_DIR$/js/firstpage.no.min.js" />
+      <root url="file://$PROJECT_DIR$/lib/require.min.js" />
+      <root url="file://$PROJECT_DIR$/lib/underscore.min.js" />
+      <root url="file://$PROJECT_DIR$/lib/underscore-contrib.min.js" />
+      <root url="file://$PROJECT_DIR$/lib/underscore.string.min.js" />
+      <root url="file://$PROJECT_DIR$/js/firstpage.min.js" />
+      <root url="file://$PROJECT_DIR$/js/test.min.js" />
+      <root url="file://$PROJECT_DIR$/js/moudle/utils.min.js" />
+      <root url="file://$PROJECT_DIR$/js/text.min.js" />
+      <root url="file://$PROJECT_DIR$/js/moudle/kcool.min.js" />
+      <root url="file://$PROJECT_DIR$/js/layout.min.js" />
+      <root url="file://$PROJECT_DIR$/js/moudle/isParameterType.min.js" />
+      <root url="file://$PROJECT_DIR$/js/are3d.min.js" />
+      <root url="file://$PROJECT_DIR$/js/are2D.min.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/yuicompressor/nodejs/index.min.js" />
+      <root url="file://$PROJECT_DIR$/js/2d.min.js" />
+      <root url="file://$PROJECT_DIR$/js/iconMap.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
